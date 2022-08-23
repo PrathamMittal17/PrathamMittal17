@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratham Mittal</h1>
 
 
-- 👋 Hi, I’m Pratham Mittal
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning NLP
 - 📫 How to reach me [@pratham-mittal17](https://www.linkedin.com/in/pratham-mittal17)
