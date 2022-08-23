@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pratham Mittal</h1>
-<h3 align="center">Machine Learning</h3>
 
 
 - 👋 Hi, I’m Pratham Mittal
