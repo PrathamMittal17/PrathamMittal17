@@ -5,7 +5,7 @@
 - 👋 Hi, I’m Pratham Mittal
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning NLP
-- 📫 How to reach me [LinkedIn: @pratham-mittal17](https://www.linkedin.com/in/pratham-mittal17)
+- 📫 How to reach me [@pratham-mittal17](https://www.linkedin.com/in/pratham-mittal17)
 - 👨‍💻 All of my projects are available at [@PrathamMittal17](https://github.com/PrathamMittal17)
 
 
