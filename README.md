@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pratham Mittal</h1>
 
 
-- 👀 I’m interested in Machine Learning and Web Development
-- 🌱 I’m currently learning NLP
+- 👀 I’m interested in Machine Learning, NLP and Generative AI
+- 🌱 I’m currently developing Gen AI applications
 - 📫 How to reach me [@pratham-mittal17](https://www.linkedin.com/in/pratham-mittal17)
 - 👨‍💻 All of my projects are available at [@PrathamMittal17](https://github.com/PrathamMittal17)
 
